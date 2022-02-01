@@ -1,9 +1,8 @@
 ![banner](assets/sagemaker-revenge-scripts-long.png)
 
-<p align="center">
-
 # A collection of lost SageMaker notebooks and scripts
 
+<p align="center">
 A (not so) long time ago, in a Cloud far, far away, <br />
 scipts were written to solve problems, and once they <br />
 solved their purpose, they are discarded and <br />
@@ -17,7 +16,6 @@ dark prison to see the bright light of day, <br />
 in some kind hero's production environment. <br />
 
 Join them, in their quest to Script Resistance! <br />
-
 </p>
 
 ## OK, how about a serious introduction now
