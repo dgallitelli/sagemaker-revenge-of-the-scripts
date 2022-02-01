@@ -26,6 +26,6 @@ The goal of this repository is to be a landing page for most of the scripts or n
 
 ### Content
 
-1. Episode 1: The Architecture Menace
-2. Episode 2: Attack of the Notebooks
-3. Episode 3: Revenge of the Scripts
+1. [Episode 1: The Architecture Menace](./ep1-architecture)
+2. [Episode 2: Attack of the Notebooks](./ep2-notebooks)
+3. [Episode 3: Revenge of the Scripts](./ep3-scripts)
