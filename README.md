@@ -1,6 +1,6 @@
 ![banner](assets/sagemaker-revenge-scripts-long.png)
 
-<center>
+<p align="center">
 
 # A collection of lost SageMaker notebooks and scripts
 
@@ -18,7 +18,7 @@ in some kind hero's production environment. <br />
 
 Join them, in their quest to Script Resistance! <br />
 
-</center>
+</p>
 
 ## OK, how about a serious introduction now
 
