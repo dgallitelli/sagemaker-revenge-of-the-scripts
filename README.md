@@ -8,13 +8,15 @@ scipts were written to solve problems, and once they <br />
 solved their purpose, they are discarded and <br />
 left to rot in the forgotten corners of the <br />
 Central Galaxy Hard Drive.
-
+</p>
+<p align="center">
 But turmoil has now engulfed the Search Index! <br />
 The separatist movement of the scripts has now <br />
 struck back, and emerged once again from their <br />
 dark prison to see the bright light of day, <br />
 in some kind hero's production environment. <br />
-
+</p>
+<p align="center">
 Join them, in their quest to Script Resistance! <br />
 </p>
 
